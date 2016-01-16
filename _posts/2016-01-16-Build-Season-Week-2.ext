@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Build Season Week 2"
+date:   2016-01-16 1:00
+categories: jekyll update
+---
+Everyone is hard at work as we continue the process of prototyping the various
+designs of the robot. Our electrical team took the morning to connect the
+pneumatics module while diversifying their perspectives and listening to music.
+
+[The control board](https://cloud.githubusercontent.com/assets/16735856/12374616/a09451a8-bc55-11e5-9c21-be5aa9de6cf0.JPG)
+
+They are now assisting the drive base team. Our drive base team is prototyping
+different designs and installing volcano tread wheels to test their
+capabilities. We are also working on prototypes for a kicker, ball grabber, and
+a scaling mechanism. The kicker is currently a rectangular design, and is still
+under construction. The ball grabber is under construction as well. It will have
+wheels that'll pull the ball into the holding area. When it comes time to shoot
+the ball, the wheels will spin the other way. The scaling mechanism's design is
+a pneumatic cylinder. They are playing with the idea of a bungee cord or a
+smaller pneumatic cylinder to spin a wheel to raise the larger mechanism. I am
+working on revamping the website, along with Ace and Matt's help.
