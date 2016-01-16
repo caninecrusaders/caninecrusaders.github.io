@@ -8,7 +8,7 @@ Everyone is hard at work as we continue the process of prototyping the various
 designs of the robot. Our electrical team took the morning to connect the
 pneumatics module while diversifying their perspectives and listening to music.
 
-[The control board](https://cloud.githubusercontent.com/assets/16735856/12374616/a09451a8-bc55-11e5-9c21-be5aa9de6cf0.JPG)
+{% include image.html url="https://cloud.githubusercontent.com/assets/16735856/12374616/a09451a8-bc55-11e5-9c21-be5aa9de6cf0.JPG" description="This is the current version of our control board." %}
 
 They are now assisting the drive base team. Our drive base team is prototyping
 different designs and installing volcano tread wheels to test their
