@@ -1,15 +1,9 @@
-/**
- * Reset some basic elements
- */
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0; }
 
-/**
- * Basic styling
- */
 body {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 16px;
@@ -19,34 +13,22 @@ body {
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%; }
 
-/**
- * Set `margin-bottom` to maintain vertical rhythm
- */
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 .highlight {
   margin-bottom: 15px; }
 
-/**
- * Images
- */
 img {
   max-width: 100%;
   vertical-align: middle; }
 
-/**
- * Figures
- */
 figure > img {
   display: block; }
 
 figcaption {
   font-size: 14px; }
 
-/**
- * Lists
- */
 ul, ol {
   margin-left: 30px; }
 
@@ -54,15 +36,9 @@ li > ul,
 li > ol {
   margin-bottom: 0; }
 
-/**
- * Headings
- */
 h1, h2, h3, h4, h5, h6 {
   font-weight: 300; }
 
-/**
- * Links
- */
 a {
   color: #2a7ae2;
   text-decoration: none; }
@@ -72,9 +48,6 @@ a {
     color: #111;
     text-decoration: underline; }
 
-/**
- * Blockquotes
- */
 blockquote {
   color: #828282;
   border-left: 4px solid #e8e8e8;
@@ -85,9 +58,6 @@ blockquote {
   blockquote > :last-child {
     margin-bottom: 0; }
 
-/**
- * Code formatting
- */
 pre,
 code {
   font-size: 15px;
@@ -106,9 +76,6 @@ pre {
     padding-right: 0;
     padding-left: 0; }
 
-/**
- * Wrapper
- */
 .wrapper {
   max-width: -webkit-calc(800px - (30px * 2));
   max-width: calc(800px - (30px * 2));
@@ -123,17 +90,11 @@ pre {
       padding-right: 15px;
       padding-left: 15px; } }
 
-/**
- * Clearfix
- */
 .wrapper:after, .footer-col-wrapper:after {
   content: "";
   display: table;
   clear: both; }
 
-/**
- * Icons
- */
 .icon > svg {
   display: inline-block;
   width: 16px;
