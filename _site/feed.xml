@@ -8,8 +8,13 @@ travel to St. Louis, Missouri last year for the Worlds competiton and to the Dis
 </description>
     <link>http://www.4980robotics.com/</link>
     <atom:link href="http://www.4980robotics.com/feed.xml" rel="self" type="application/rss+xml" />
+<<<<<<< HEAD
     <pubDate>Sun, 17 Jan 2016 17:57:03 -0800</pubDate>
     <lastBuildDate>Sun, 17 Jan 2016 17:57:03 -0800</lastBuildDate>
+=======
+    <pubDate>Sat, 23 Jan 2016 13:40:28 -0800</pubDate>
+    <lastBuildDate>Sat, 23 Jan 2016 13:40:28 -0800</lastBuildDate>
+>>>>>>> origin/master
     <generator>Jekyll v2.4.0</generator>
     
       <item>
