@@ -1,35 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>4980 Canine Crusaders</title>
+    <description>We are a proud FIRST robotics team located in Kettle Falls, Washington. We are
+ very lucky to have a supportive community who have helped us
+travel to St. Louis, Missouri last year for the Worlds competiton and to the Distric Championship the year before in Portland, Oregon.  
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 16 Jan 2016 12:26:51 -0800</pubDate>
-    <lastBuildDate>Sat, 16 Jan 2016 12:26:51 -0800</lastBuildDate>
+    <link>http://www.4980robotics.com/</link>
+    <atom:link href="http://www.4980robotics.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 23 Jan 2016 13:40:28 -0800</pubDate>
+    <lastBuildDate>Sat, 23 Jan 2016 13:40:28 -0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Build Season Week 2</title>
+        <description>Everyone is hard at work as we continue the process of prototyping the various
+designs of the robot. Our electrical team took the morning to connect the
+pneumatics module while diversifying their perspectives and listening to music.
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;caption align=&quot;bottom&quot;&gt;This is the current version of our control board.&lt;/caption&gt;
+&lt;img src=&quot;https://cloud.githubusercontent.com/assets/16735856/12374616/a09451a8-bc55-11e5-9c21-be5aa9de6cf0.JPG&quot; alt=&quot;This is the current version of our control board.&quot;/&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+They are now assisting the drive base team. Our drive base team is prototyping
+different designs and installing volcano tread wheels to test their
+capabilities.
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+&lt;caption align=&quot;bottom&quot;&gt;&lt;/caption&gt;
+&lt;img src=&quot;https://cloud.githubusercontent.com/assets/16735856/12374604/79cb0f12-bc55-11e5-9116-1f9b507e1878.JPG&quot; alt=&quot;&quot;/&gt;
 
+
+
+ We are also working on prototypes for a kicker, ball grabber, and
+a scaling mechanism. The kicker is currently a rectangular design, and is still
+under construction.
+
+&lt;caption align=&quot;bottom&quot;&gt;In case you were confused, well, here you go.&lt;/caption&gt;
+&lt;img src=&quot;https://cloud.githubusercontent.com/assets/16735856/12374634/4027e4fa-bc56-11e5-8a46-846d43c339cc.JPG&quot; alt=&quot;In case you were confused, well, here you go.&quot;/&gt;
+
+
+The ball grabber is under construction as well. It will have
+wheels that&#39;ll pull the ball into the holding area. When it comes time to shoot
+the ball, the wheels will spin the other way.
+
+&lt;caption align=&quot;bottom&quot;&gt;&lt;/caption&gt;
+&lt;img src=&quot;https://cloud.githubusercontent.com/assets/16735856/12374611/949297fc-bc55-11e5-9ee0-65b605764d8f.JPG&quot; alt=&quot;&quot;/&gt;
+
+
+ The scaling mechanism&#39;s design is
+a pneumatic cylinder. They are playing with the idea of a bungee cord or a
+smaller pneumatic cylinder to spin a wheel to raise the larger mechanism.
+
+&lt;caption align=&quot;bottom&quot;&gt;&lt;/caption&gt;
+&lt;img src=&quot;https://cloud.githubusercontent.com/assets/16735856/12374613/9c3b9724-bc55-11e5-94f1-2fc1f3786f09.JPG&quot; alt=&quot;&quot;/&gt;
+
+
+ I am
+working on revamping the website, along with Ace and Matt&#39;s help.
 </description>
-        <pubDate>Sat, 16 Jan 2016 03:13:37 -0800</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2016/01/16/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/01/16/welcome-to-jekyll.html</guid>
+        <pubDate>Sat, 16 Jan 2016 01:00:00 -0800</pubDate>
+        <link>http://www.4980robotics.com/jekyll/update/2016/01/16/Build-Season-Week-2.html</link>
+        <guid isPermaLink="true">http://www.4980robotics.com/jekyll/update/2016/01/16/Build-Season-Week-2.html</guid>
         
         
         <category>jekyll</category>
