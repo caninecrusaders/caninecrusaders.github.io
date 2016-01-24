@@ -1,0 +1,14 @@
+---
+layout: post-with-video
+videoURL: https://www.youtube.com/embed/MGP9iCUV_1Y
+title:  "Build Season Week 3"
+date:   2016-01-17 7:00
+categories: jekyll update
+---
+
+Another week hard at work. Our prototyping has continued, and we have finished a
+version of a ball shooter.
+
+
+
+We have also done some work for a ball pickup system.
