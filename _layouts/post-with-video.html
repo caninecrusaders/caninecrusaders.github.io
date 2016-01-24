@@ -8,9 +8,14 @@ layout: default
     <p class="post-meta">{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
 
+  {% for videoURL in post.videoURLs %}
+
+    <iframe width="560" height="315" src="{{videoURL}}" frameborder="0" allowfullscreen></iframe>
+
+  {% endfor %}
 
 
-  <iframe width="560" height="315" src="{{page.videoURL}}" frameborder="0" allowfullscreen></iframe>
+
 
   <article class="post-content">
     {{ content }}
