@@ -4,7 +4,7 @@ email: 4980robotics@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   We are a proud FIRST robotics team located in Kettle Falls, Washington. We are
    very lucky to have a supportive community who have helped us
-  travel to St. Louis, Missouri last year for the Worlds competiton and to the Distric
+  travel to St. Louis, Missouri last year for the Worlds competiton and to the District
   Championship the year before in Portland, Oregon.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.4980robotics.com" # the base hostname & protocol for your site
