@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Championship the year before in Portland, Oregon.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.4980robotics.com" # the base hostname & protocol for your site
-twitter_username:  4980robotics
+twitter_username: 4980robotics
 facebook_username: CanineCrusaders4980
 youtube_username: 4980 Canine Crusaders
 
