@@ -1,10 +1,10 @@
 ---
 layout: post-with-video
-videoURLs:
+videos:
 - "https://www.youtube.com/embed/MGP9iCUV_1Y"
 - "https://www.youtube.com/embed/F2FlfgRH56Y"
-title:  "Build Season Week 3"
-date:   2016-01-24 7:00
+title: "Build Season Week 3"
+date: 2016-01-24
 categories: jekyll update
 author: Ande Schoonover
 ---
