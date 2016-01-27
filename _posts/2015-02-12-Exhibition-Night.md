@@ -2,7 +2,7 @@
 layout: post
 title:  Exhibition Night
 date:   2015-02-12
-categories: frc
+categories: recycle-rush
 author: Jessica Harris
 ---
 Team 4980 Invites You!

@@ -2,7 +2,7 @@
 layout: post
 title:  First Competition
 date:   2015-02-24
-categories: frc
+categories: recycle-rush
 author: Jessica Harris
 ---
 ![](/images/IMG_0347.JPG)

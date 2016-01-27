@@ -2,7 +2,7 @@
 layout: post
 title:  FRC PNW Championships Results
 date:   2015-04-05
-categories: pnw frc
+categories: recycle-rush
 author: Jessica Harris
 ---
 ![](https://cloud.githubusercontent.com/assets/10913095/7165336/dd58d7c2-e35b-11e4-9350-2ae442e18207.jpg)

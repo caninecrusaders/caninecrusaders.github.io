@@ -2,7 +2,7 @@
 layout: post
 title:  "Build Season Week 2"
 date:   2016-01-16 1:00
-categories: jekyll update
+categories: stronghold
 author: Ande Schoonover
 ---
 Everyone is hard at work as we continue the process of prototyping the various

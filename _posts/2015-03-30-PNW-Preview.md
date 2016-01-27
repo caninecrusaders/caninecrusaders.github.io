@@ -2,7 +2,7 @@
 layout: post
 title:  FRC PNW Preview
 date:   2015-03-30
-categories: pnw frc
+categories: recycle-rush
 author: Jessica Harris
 ---
 ![](https://cloud.githubusercontent.com/assets/10913095/7165290/8d4c75fe-e35b-11e4-9110-f6f57b33bbdd.jpg)

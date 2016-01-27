@@ -2,7 +2,7 @@
 layout: post
 title: Canine Crusaders Looking for New Members
 date: 2015-05-28
-categories: new members
+categories: recycle-rush
 author: Jessica Harris
 ---
 [dropbox]: https://www.dropbox.com/s/mfwwitkegemx5yd/2015-16%20Student%20Application.pdf

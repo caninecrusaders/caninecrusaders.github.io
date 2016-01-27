@@ -5,7 +5,7 @@ videos:
 - "https://www.youtube.com/embed/F2FlfgRH56Y"
 title: "Build Season Week 3"
 date: 2016-01-24
-categories: jekyll update
+categories: stronghold
 author: Ande Schoonover
 ---
 
