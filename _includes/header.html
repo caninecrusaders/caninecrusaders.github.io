@@ -1,36 +1,30 @@
-<!-- <header class=""> -->
-  <!-- <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a> -->
-  <nav class="navbar navbar-default" role="navigation">
-    <div class="container-fluid">
-      <!-- Brand and toggle get grouped for better mobile display -->
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand" href="/index.html">Canine Crusaders</a>
-      </div>
-
-      <!-- Collect the nav links, forms, and other content for toggling -->
-      <div class="collapse navbar-collapse" id="navbar">
-        <ul class="nav navbar-nav">
-          {% for html_page in site.html_pages %}
-            {% if html_page.title %}
-              {% if html_page.url == page.url %}
-                <li class="active"><a href="{{ html_page.url | prepend: site.baseurl }}" >{{ html_page.title }}</a></li>
-              {% else %}
-                <li><a href="{{ html_page.url | prepend: site.baseurl }}" >{{ html_page.title }}</a></li>
-              {% endif %}
-            {% endif %}
-          {% endfor %}
-        </ul>
-        <ul class="nav navbar-nav navbar-right">
-          <li><a href="http://www.kfschools.org/">KFSD</a></li>
-        </ul>
-      </div>
+<nav class="navbar navbar-default" role="navigation">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/index.html">Canine Crusaders</a>
     </div>
-  </nav>
-<!--</header>-->
+    <div class="collapse navbar-collapse" id="navbar">
+      <ul class="nav navbar-nav">
+        {% for html_page in site.html_pages %}
+          {% if html_page.title %}
+            {% if html_page.url == page.url %}
+              <li class="active"><a href="{{ html_page.url | prepend: site.baseurl }}" >{{ html_page.title }}</a></li>
+            {% else %}
+              <li><a href="{{ html_page.url | prepend: site.baseurl }}" >{{ html_page.title }}</a></li>
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="http://www.kfschools.org/">KFSD</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
