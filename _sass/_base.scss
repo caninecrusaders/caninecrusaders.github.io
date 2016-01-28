@@ -8,7 +8,14 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-
+// /**
+//  * Remove Bootstrap rounded corners
+//  */
+* {
+  -webkit-border-radius: 0 !important;
+     -moz-border-radius: 0 !important;
+          border-radius: 0 !important;
+}
 
 // /**
 //  * Basic styling
