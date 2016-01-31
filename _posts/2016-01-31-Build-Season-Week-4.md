@@ -15,7 +15,11 @@ main ideas.
 <p>
 <p>
 The CAD team finished the designs for side plates. We sent those designs to
-Alcobra in Spokane to be laser cut.
-
-
-https://alcobrametals.com/
+Alcobra Metals in Spokane to be laser cut. Now, they're working on doing the
+model design for the ball shooter.
+<p>
+<p>
+The girls of the team were in a photoshoot today to try to help promote
+participation of girls in the future. We plan on placing the posters in the
+Elementary and Middle schools, and we are contemplating placing them in the high
+school and the district office.
