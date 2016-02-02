@@ -14,8 +14,7 @@ pneumatics module while diversifying their perspectives and listening to music.
 They are now assisting the drive base team. Our drive base team is prototyping
 different designs and installing volcano tread wheels to test their
 capabilities.
-
-![](https://cloud.githubusercontent.com/assets/16735856/12374604/79cb0f12-bc55-11e5-9116-1f9b507e1878.JPG)
+{% include picture.html picture='shop-week-2' %}
 
  We are also working on prototypes for a kicker, ball grabber, and
 a scaling mechanism. The kicker is currently a rectangular design, and is still

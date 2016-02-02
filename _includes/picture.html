@@ -1,0 +1,10 @@
+<picture>
+  <img
+  sizes="(max-width: {{site.data.pictures[include.picture].maxSize}}) 100vw, {{site.data.pictures[include.picture].maxSize}}"
+  srcset="
+  {% for image in site.data.pictures[include.picture].images %}
+    {{image}},
+  {% endfor %}"
+  src="{{site.data.pictures[include.picture].source}}"
+  alt="">
+</picture>
